@@ -99,6 +99,7 @@
     <Content Include="org_test_schedule_list.aspx" />
     <Content Include="org_thank_you.aspx" />
     <Content Include="org_topic_creation.aspx" />
+    <Content Include="test.html" />
     <Content Include="uploadStudentRecord.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
